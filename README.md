@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariovida&layout=compact)](https://github.com/mariovida/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=mariovida&hide_border=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

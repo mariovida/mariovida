@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mario's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mariovida&hide_border=true&theme=github_dark&layout=compact)](https://github.com/mariovida/github-readme-stats)
+[![Mario's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=mariovida&hide_border=true&theme=github_dark&layout=compact)](https://github.com/mariovida/github-readme-stats)
 
 

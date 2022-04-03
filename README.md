@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 [![Mario's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=mariovida&hide_border=true&theme=github_dark&layout=compact)](https://github.com/mariovida/github-readme-stats)

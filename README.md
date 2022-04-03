@@ -35,8 +35,6 @@ Here are some ideas to get you started:
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-[!image](https://github-readme-stats.vercel.app/api?username=mariovida&theme=blue-green)
-
 [![Mario's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=mariovida&hide_border=true&theme=github_dark&layout=compact)](https://github.com/mariovida/github-readme-stats)
 
 

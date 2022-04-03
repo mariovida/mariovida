@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-[![Mario's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mariovida&hide_border=true&theme=github_dark&layout=compact)](https://github.com/mariovida/github-readme-stats)
+[![Mario's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=mariovida&hide_border=true&theme=github_dark&layout=compact)](https://github.com/mariovida/github-readme-stats)
 
 

@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 </p>
 <hr/>
 
+### Design
+<p>
+  <img alt="Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariovida&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 

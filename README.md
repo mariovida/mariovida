@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
+<hr/>
 
 ### ⚙️ Backend
 <p>

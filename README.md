@@ -53,11 +53,12 @@ Here are some ideas to get you started:
 </p>
 <hr/>
 
-### Hosting
+<!--### Hosting
 <p>
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" />
+  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-</p>
+</p>-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariovida&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)

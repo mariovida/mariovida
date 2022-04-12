@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 🖼️ Frontend
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <br/>

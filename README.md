@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 <p>
   <img alt="NextJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <br/><br/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Smyonfy" src="https://camo.githubusercontent.com/07bf179255d19d79e53d8ffc9ed9fdcad01e35d811757f64af178619d91f0e42/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d53796d666f6e7926636f6c6f723d303030303030266c6f676f3d53796d666f6e79266c6f676f436f6c6f723d464646464646266c6162656c3d" />
@@ -44,6 +41,13 @@ Here are some ideas to get you started:
   <br/><br/>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+<hr/>
+
+### ⚡ Database
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 <hr/>
 

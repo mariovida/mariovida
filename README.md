@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <!--<img alt="Vue" src="https://img.shields.io/badge/-Vue-3FB984?style=for-the-badge&logo=vue.js&logoColor=white" />-->
   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
 </p>
 <hr/>
 

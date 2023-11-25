@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <!--<img alt="Vue" src="https://img.shields.io/badge/-Vue-3FB984?style=for-the-badge&logo=vue.js&logoColor=white" />-->
   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <!--<img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />-->
     <br/></br/>
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />

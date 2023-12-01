@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 <hr/>
-
+<!--
 ### 🖌️ Design
 <p>
   <img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-FD8301.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 <hr/>
-
+-->
 <!--### Hosting
 <p>
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" />

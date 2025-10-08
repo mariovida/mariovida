@@ -1,18 +1,4 @@
 <!--### Hi there 👋-->
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### 🖼️ Frontend
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -23,8 +9,8 @@ Here are some ideas to get you started:
   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <!--<img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />-->
     <br/></br/>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
+  <!--<img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />-->
+  <!--<img alt="css3" src="https://img.shields.io/badge/-CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />-->
   <img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-hotpink?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />

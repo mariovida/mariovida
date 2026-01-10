@@ -35,22 +35,3 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 <hr/>
-<!--
-### 🖌️ Design
-<p>
-  <img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-FD8301.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img alt="Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-874F96.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-003866.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-<hr/>
--->
-<!--### Hosting
-<p>
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" />
-  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-</p>-->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariovida&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
